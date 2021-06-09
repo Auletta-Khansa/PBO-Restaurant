@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\RestaurantF\RestaurantF\bin\Debug\RestaurantF.exe.config
+C:\Users\User\source\repos\RestaurantF\RestaurantF\bin\Debug\RestaurantF.exe
+C:\Users\User\source\repos\RestaurantF\RestaurantF\bin\Debug\RestaurantF.pdb
+C:\Users\User\source\repos\RestaurantF\RestaurantF\obj\Debug\RestaurantF.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RestaurantF\RestaurantF\obj\Debug\RestaurantF.Form1.resources
+C:\Users\User\source\repos\RestaurantF\RestaurantF\obj\Debug\RestaurantF.Properties.Resources.resources
+C:\Users\User\source\repos\RestaurantF\RestaurantF\obj\Debug\RestaurantF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RestaurantF\RestaurantF\obj\Debug\RestaurantF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RestaurantF\RestaurantF\obj\Debug\RestaurantF.exe
+C:\Users\User\source\repos\RestaurantF\RestaurantF\obj\Debug\RestaurantF.pdb
